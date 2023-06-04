@@ -21,3 +21,6 @@ useState and useEffect: These are hooks provided by React for managing state and
 ImageBackground: This component is part of the react-native library and is used for displaying an image as a background for a view.
 
 StyleSheet: This module is imported from react-native and is used to create and manage styles for the components.
+
+
+# **TO SEE THE WORKING DEMO OF APP** -> https://drive.google.com/file/d/14DR1FNMmBuCaIUC1Py-YDk0Hk9saYcal/view?usp=sharing
